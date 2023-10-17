@@ -6,6 +6,27 @@
 Welcome to Curs Doc as Code's documentation!
 ============================================
 
+**Valentin Damache**
+
+*DevOps Italic*
+
+Acesta este un subtitlu
+-----------------------
+
+:Lista elemente:
+ - Elementul 1
+ - Elementul 2
+ - Elementul 3
+
+:Lista numerotata:
+ #. Element 1
+ #. Element 2
+ #. Element 3
+
+:Citat:
+ > Lorem ipsum
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
