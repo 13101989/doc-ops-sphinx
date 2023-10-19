@@ -8,7 +8,7 @@ Welcome to Curs Doc as Code's documentation!
 
 **Autor:** *Valentin Damache*
 
-====================
+
 Acesta este un titlu
 =====================
 
@@ -17,11 +17,14 @@ Acesta este un subtitlu
 
 :Lista limbaje de programare (tip bullet):
 
+
  - Python
  - C#
  - Javascript
 
-:Lista filme/seriale (numerotata):
+
+:Lista filme/seriale (numerotata):\n
+
 
  #. Stapanul inelelor
  #. Game of thrones
