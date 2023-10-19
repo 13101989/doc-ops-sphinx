@@ -18,16 +18,24 @@ Acesta este un subtitlu
 
 :Lista limbaje de programare (tip bullet):
 |
- - Python
- - C#
- - Javascript
+| - Python
+| - C#
+| - Javascript
 
 
-:Lista filme/seriale (numerotata):\n
+:Lista filme/seriale (numerotata):
 |
  #. Stapanul inelelor
  #. Game of thrones
  #. Breaking bad
+
+
+
+..code-block:: bash
+   :linenos:
+   
+   cd home
+   pwd
 
 
 :Citat:
