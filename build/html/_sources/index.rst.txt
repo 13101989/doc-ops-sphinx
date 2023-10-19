@@ -12,20 +12,19 @@ Welcome to Curs Doc as Code's documentation!
 Acesta este un titlu
 =====================
 
+
 Acesta este un subtitlu
 -----------------------
 
 :Lista limbaje de programare (tip bullet):
-
-
+|
  - Python
  - C#
  - Javascript
 
 
 :Lista filme/seriale (numerotata):\n
-
-
+|
  #. Stapanul inelelor
  #. Game of thrones
  #. Breaking bad
