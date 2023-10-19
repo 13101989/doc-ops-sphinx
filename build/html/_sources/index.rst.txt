@@ -6,22 +6,27 @@
 Welcome to Curs Doc as Code's documentation!
 ============================================
 
-**Valentin Damache**
+**Autor:** *Valentin Damache*
 
-*DevOps Italic*
+====================
+Acesta este un titlu
+=====================
 
 Acesta este un subtitlu
 -----------------------
 
-:Lista elemente:
- - Elementul 1
- - Elementul 2
- - Elementul 3
+:Lista limbaje de programare (tip bullet):
 
-:Lista numerotata:
- #. Element 1
- #. Element 2
- #. Element 3
+ - Python
+ - C#
+ - Javascript
+
+:Lista filme/seriale (numerotata):
+
+ #. Stapanul inelelor
+ #. Game of thrones
+ #. Breaking bad
+
 
 :Citat:
  > Lorem ipsum
